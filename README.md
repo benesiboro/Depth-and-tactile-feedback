@@ -1,4 +1,4 @@
-# Depth-and-tacktile-feedback
+# Depth-and-tactile-feedback
 This repository contains the source code and dataset associated with the manuscript submitted to The Visual Computer, titled:
 “Enhancing Menu Interaction in Virtual Reality: The Impact of Depth Perception and Tactile Feedback.”
 
